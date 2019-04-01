@@ -3,13 +3,16 @@ Librerias de Arduino necesarias para ejecutar el videojuego
 
 Todas tienen que estar en la carpeta de librerías de Arduino allá donde la tengáis.
 
+
 - Adafruit_BNO055
 
 Necesaria para leer la IMU BNO055
 
+
 - Adafruit_Sensor
 
 Se usa junto con la anterior para leer la IMU
+
 
 - ArduinoSerialCommand
 
